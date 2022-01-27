@@ -25,9 +25,9 @@ The working of the project is explained below.
 
 Working :-
 
-	A structure is defined with data types required to store a patient’s details. 
-	The program is a menu driven program wherein the admin has three choices – 
-	Add patient(s), Display the contents of the text file, and to search for a record in the file. 
+A structure is defined with data types required to store a patient’s details. 
+The program is a menu driven program wherein the admin has three choices – 
+Add patient(s), Display the contents of the text file, and to search for a record in the file. 
 
 The admin can choose the number of patients whose details are to be entered and this can range from 1 to ‘n’. 
 The text file is opened in ‘append’ mode in order to keep adding records to the file.
